@@ -100,6 +100,10 @@ Additionally, founders of YC companies see each other's usernames [show up in or
 
 ## Bonus Features
 
+### Hacker News Classic
+
+Hacker News allows people to use the [old front page ranking algorithm](https://news.ycombinator.com/classic). This results in different (and occasionally better) content.
+
 ### Hacker News Wayback
 
 Hacker News allows users to see what the front page looks like [at any point in time](https://news.ycombinator.com/front?day=2012-03-24). You can also do a wayback view for any user at their registration date by clicking their registration date in their profile.
