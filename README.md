@@ -126,6 +126,11 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 * [/noobstories](https://news.ycombinator.com/noobstories)  -- Show submissions from new accounts
 * [/noobcomments](https://news.ycombinator.com/noobcomments)  -- List comments from new accounts
 
+### Filter out posts below a set number of votes
+Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with `over?points=100`. Examples:
+
+* [over 100 points](https://news.ycombinator.com/over?points=100)
+* [over 200 points](https://news.ycombinator.com/over?points=200)
 
 ## To-Do
 
