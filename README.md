@@ -92,6 +92,8 @@ YC Companies get two notable benefits on Hacker News; they can post jobs ads to 
 
 Currently, there is no evidence that non-job submissions about a YC startup receive preferential treatment on the front page, or kill submissions critical of a YC startup. In fact, the moderators have stated that they explicitly [avoid killing controversial YC posts](https://news.ycombinator.com/item?id=8258752) when possible.
 
+Additionally, founders of YC companies see each other usernames [show up in orange,](https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/) which although not an explicit benefit, does allow fellow YC founders to immediately identify one another in discussions. 
+
 ## Bonus Features
 
 ### Hacker News Wayback
