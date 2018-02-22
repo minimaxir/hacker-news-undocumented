@@ -32,6 +32,9 @@ In contrast, a `[dead]` submission is either killed by a moderator or by the sof
 
 If a user has **30 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[flagged]` or `[dead]` submission/comment. A vouched submission/comment has its rank restored, but it can be `[flagged]` again at which point it can't be re-vouched.
 
+### Setting top color
+If a user has **250 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [complete set](https://news.ycombinator.com/topcolors) of colors users have set.
+
 ### Duplicate Submissions
 
 Hacker News encourages a single discussion on a given story. All others are marked as a `[dupe]` and will be killed without the ability to vouch. This includes articles which are insubstantial variations of an earlier widely-discussed submission.
