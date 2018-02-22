@@ -70,6 +70,10 @@ Both users and domains can be shadowbanned, where all posts/comments by that use
 
 Users/domains are usually shadowbanned for breaking HN rules/spam. If you feel you are unfairly shadowbanned, contact [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
+### Green Usernames
+
+Accounts which are less than **2 weeks** old will appear with a green username.
+
 ## Behaviors
 
 ### Implicit Downranking of Politics
