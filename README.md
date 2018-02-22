@@ -126,6 +126,11 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 * [/noobstories](https://news.ycombinator.com/noobstories)  -- Show submissions from new accounts
 * [/noobcomments](https://news.ycombinator.com/noobcomments)  -- List comments from new accounts
 
+### Hackernews - Search
+Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
+
+* [HN Search](https://hn.algolia.com/)
+
 ### Filter out posts below a set number of votes
 Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with `over?points=100`. Examples:
 
