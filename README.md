@@ -83,9 +83,9 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 
 The Guidelines state that political discussion is off-topic. However, as of recently, the line between technology and politics has become *extremely* blurred. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
 
-### Implicit Downranking of Race/Gender
+### Implicit Downranking of topics around Diversity and Inclusion
 
-Likewise, diversity and inclusion has become a recent, important issue in technology. However, despite discussions about race/gender not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
+Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
 ### Paywalls
 
