@@ -16,7 +16,7 @@ Both are very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombi
 
 ### Downvoting Comments
 
-All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **500 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points.
+All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points.
 
 ![](/images/hn_downvotes.png)
 
@@ -125,6 +125,11 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 * [/bestcomments](https://news.ycombinator.com/bestcomments)  -- List the highest-voted recent comments
 * [/noobstories](https://news.ycombinator.com/noobstories)  -- Show submissions from new accounts
 * [/noobcomments](https://news.ycombinator.com/noobcomments)  -- List comments from new accounts
+
+This list is currently missing these additional links:
+
+* [/newcomments](https://news.ycombinator.com/newcomments)  -- List the newest comments
+* [/shownew](https://news.ycombinator.com/shownew)  -- View new Show HN links
 
 ### Hackernews - Search
 Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
