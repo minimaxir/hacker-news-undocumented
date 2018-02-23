@@ -131,6 +131,11 @@ This list is currently missing these additional links:
 * [/newcomments](https://news.ycombinator.com/newcomments)  -- List the newest comments
 * [/shownew](https://news.ycombinator.com/shownew)  -- View new Show HN links
 
+### Hackernews - Search
+Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
+
+* [HN Search](https://hn.algolia.com/)
+
 ### Filter out posts below a set number of votes
 Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with `over?points=100`. Examples:
 
