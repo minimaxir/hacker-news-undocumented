@@ -99,7 +99,7 @@ YC Companies get two notable benefits on Hacker News; they can post jobs ads to 
 
 Currently, there is no evidence that non-job submissions about a YC startup receive preferential treatment on the front page, or kill submissions critical of a YC startup. In fact, the moderators have stated that they explicitly [avoid killing controversial YC posts](https://news.ycombinator.com/item?id=8258752) when possible.
 
-Additionally, founders of YC companies see each other's usernames [show up in orange,](https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/) which--although not an explicit benefit--does allow fellow YC founders to immediately identify one another in discussions. 
+Additionally, founders of YC companies see each other's usernames [show up in orange,](https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/) which — although not an explicit benefit — does allow fellow YC founders to immediately identify one another in discussions. 
 
 ## Bonus Features
 
@@ -118,18 +118,18 @@ If you want to gather large amount of Hacker News data for data analysis/machine
 ### Hacker News Lists
 Hacker News maintains a [list of useful links](https://news.ycombinator.com/lists) that allow for primitive filtering by certain types of content. These currently include:
 
-* [/leaders](https://news.ycombinator.com/leaders)  -- View a list of users with the most karma
-* [/front](https://news.ycombinator.com/front)  -- Filter front page submissions for a given day (e.g. 2016-06-20), ordered by time spent there
-* [/best](https://news.ycombinator.com/best)  -- View the highest-voted recent links
-* [/active](https://news.ycombinator.com/active)  -- View the links with the most active current discussions
-* [/bestcomments](https://news.ycombinator.com/bestcomments)  -- List the highest-voted recent comments
-* [/noobstories](https://news.ycombinator.com/noobstories)  -- Show submissions from new accounts
-* [/noobcomments](https://news.ycombinator.com/noobcomments)  -- List comments from new accounts
+* [/leaders](https://news.ycombinator.com/leaders) — View a list of users with the most karma
+* [/front](https://news.ycombinator.com/front) — Filter front page submissions for a given day (e.g. 2016-06-20), ordered by time spent there
+* [/best](https://news.ycombinator.com/best) — View the highest-voted recent links
+* [/active](https://news.ycombinator.com/active) — View the links with the most active current discussions
+* [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
+* [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
+* [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
 
 This list is currently missing these additional links:
 
-* [/newcomments](https://news.ycombinator.com/newcomments)  -- List the newest comments
-* [/shownew](https://news.ycombinator.com/shownew)  -- View new Show HN links
+* [/newcomments](https://news.ycombinator.com/newcomments) — List the newest comments
+* [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 
 ### Hackernews - Search
 Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
