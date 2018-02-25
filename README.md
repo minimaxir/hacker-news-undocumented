@@ -65,6 +65,8 @@ If you need something deleted but you can't, you'll have to message [hn@ycombina
 
 Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
 
+When a comment thread is collapsed, the `[+x]` number on the right indicates the number of comments that are hidden. The comment count is recursive including +1 for the comment itself, +1 for each child comment, and +1 for each of their grandchildren comments and so on all the way down.
+
 ### Shadowbanning
 
 Both users and domains can be shadowbanned, where all posts/comments by that user / submissions to that domain will be instantly `[dead]` and cannot receive votes/comments (but can still be vouched). A good way to tell if a user/domain is banned is to either have another user with `showdead` enabled check for a series of `[dead]` content from that source, or view those submissions in Private Browsing/Incognito mode to see if they appear.
