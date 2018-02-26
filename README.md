@@ -22,22 +22,19 @@ All comments start with a score of 1 point (but in order to prevent bandwagoning
 
 Complaining about being downvoted is discouraged and usually results in even more downvotes.
 
-If the comment desaturation makes Hacker News difficult to read, you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
+If the comment desaturation makes Hacker News difficult to read,  you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
   
 ### Flagging/Vouching
 
-If a user has **30 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is *supposed* to be used for submissions which are spam/off-topic, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly. 
+If a user has **31 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is supposed to be used for submissions which are which break the site guidelines, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly. 
 
-In contrast, a `[dead]` submission is either killed by a moderator or by the software.
+A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
 
-If a user has **30 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[flagged]` or `[dead]` submission/comment. A vouched submission/comment has its rank restored, but it can be `[flagged]` again at which point it can't be re-vouched.
+If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags), but it can be `[dead]` again at which point it can't be re-vouched.
 
-### Setting top color
-If a user has **250 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [complete set](https://news.ycombinator.com/topcolors) of colors users have set.
+### Setting Top Color
 
-### Duplicate Submissions
-
-Hacker News encourages a single discussion on a given story. All others are marked as a `[dupe]` and will be killed without the ability to vouch. This includes articles which are insubstantial variations of an earlier widely-discussed submission.
+If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [complete set](https://news.ycombinator.com/topcolors) of colors users have set.
 
 ### Anti-Voting Manipulation
 
@@ -51,7 +48,7 @@ The FAQ notes that submission rank is impacted by "[software which downweights o
 
 ### Second-Chance Pool
 
-Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=11662380) which didn't receive a lot of upvotes and reset the submission time on the post.
+Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=11662380) which didn't receive a lot of upvotes and reset the submission time on the post. (This is also one of the reasons why the FAQ discourages deleting submissions).
 
 Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?id=10308900) via email to resubmit a post which didn't get much traction.
 
@@ -63,13 +60,15 @@ If you need something deleted but you can't, you'll have to message [hn@ycombina
 
 ### Comment Collapsing
 
-Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
+Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are sometimes collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
 
 When a comment thread is collapsed, the `[+x]` number on the right indicates the number of comments that are hidden. The comment count is recursive including +1 for the comment itself, +1 for each child comment, and +1 for each of their grandchildren comments and so on all the way down.
 
 ### Shadowbanning
 
-Both users and domains can be shadowbanned, where all posts/comments by that user / submissions to that domain will be instantly `[dead]` and cannot receive votes/comments (but can still be vouched). A good way to tell if a user/domain is banned is to either have another user with `showdead` enabled check for a series of `[dead]` content from that source, or view those submissions in Private Browsing/Incognito mode to see if they appear.
+Both users and domains can be shadowbanned, where all posts/comments by that user / submissions to that domain will be instantly `[dead]` and cannot receive votes/comments (but can still be vouched). For accounts with a substantial history on Hacker News, moderators [will give warnings](https://news.ycombinator.com/item?id=16441707) before a ban.
+
+A good way to tell if a user/domain is banned is to either have another user with `showdead` enabled check for a series of `[dead]` content from that source, or view those submissions in Private Browsing/Incognito mode to see if they appear.
 
 ![](/images/shadowban.png)
 
@@ -83,7 +82,7 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 
 ### Implicit Downranking of Politics
 
-The Guidelines state that political discussion is off-topic. However, as of recently, the line between technology and politics has become *extremely* blurred. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
+The Guidelines state that *most* political discussion is *probably* off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
 
 ### Implicit Downranking of topics around Diversity and Inclusion
 
@@ -93,11 +92,11 @@ Likewise, topics around diversity and inclusion in tech have gained lots of visi
 
 Many news websites have started implementing a paywall for their content, which has caused conflict with Hacker News's "original source" rule. The `web` button next to submissions (that does a Google search for the given title) was partially intended to serve as a paywall workaround; however, recent changes to the paywall implementations have closed that loophole.
 
-As a result, submissions which link to paywalled sites tend to get many comments complaining about paywalls.
+As a result, submissions which link to paywalled sites tend to get many comments complaining about paywalls, [which are off-topic](https://news.ycombinator.com/item?id=10178989).
 
 ### Perceived Favoritism Toward YC Companies
 
-YC Companies get two notable benefits on Hacker News; they can post jobs ads to the front page (which start of at Rank #6, cannot be voted/commented on, and have a fixed decay rate), and the ability to do a [Launch HN](https://hn.algolia.com/?query=Launch%20HN&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story) when their startup launches out of a YC batch.
+YC Companies get two notable benefits on Hacker News; they can post jobs ads to the front page (which start off at Rank #6, cannot be voted/commented on, and have a fixed decay rate), and the ability to do a [Launch HN](https://hn.algolia.com/?query=Launch%20HN&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story) when their startup launches out of a YC batch.
 
 Currently, there is no evidence that non-job submissions about a YC startup receive preferential treatment on the front page, or kill submissions critical of a YC startup. In fact, the moderators have stated that they explicitly [avoid killing controversial YC posts](https://news.ycombinator.com/item?id=8258752) when possible.
 
@@ -107,7 +106,7 @@ Additionally, founders of YC companies see each other's usernames [show up in or
 
 ### Hacker News Classic
 
-Hacker News allows people to use the [old front page ranking algorithm](https://news.ycombinator.com/classic). This results in different (and occasionally better) content.
+Hacker News allows people to use the [old front page ranking algorithm](https://news.ycombinator.com/classic), which only [counts votes](https://news.ycombinator.com/item?id=16442776) from early users.
 
 ### Hacker News Wayback
 
@@ -118,6 +117,7 @@ Hacker News allows users to see what the front page looks like [at any point in 
 If you want to gather large amount of Hacker News data for data analysis/machine learning, you should use the [Hacker News dataset on BigQuery](https://cloud.google.com/bigquery/public-data/hacker-news), which is updated daily and is much more pragmatic to use than manually scraping data from the Hacker News API.
 
 ### Hacker News Lists
+
 Hacker News maintains a [list of useful links](https://news.ycombinator.com/lists) that allow for primitive filtering by certain types of content. These currently include:
 
 * [/leaders](https://news.ycombinator.com/leaders) — View a list of users with the most karma
@@ -130,15 +130,16 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 
 This list is currently missing these additional links:
 
-* [/newcomments](https://news.ycombinator.com/newcomments) — List the newest comments
 * [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 
 ### Hackernews - Search
+
 Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
 
 * [HN Search](https://hn.algolia.com/)
 
 ### Filter out posts below a set number of votes
+
 Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with `over?points=100`. Examples:
 
 * [over 100 points](https://news.ycombinator.com/over?points=100)
