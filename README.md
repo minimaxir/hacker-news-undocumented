@@ -62,7 +62,7 @@ If you need something deleted but you can't, you'll have to message [hn@ycombina
 
 Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are sometimes collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
 
-When a comment thread is collapsed, the `[+x]` number on the right indicates the number of comments that are hidden. The comment count is recursive including +1 for the comment itself, +1 for each child comment, and +1 for each of their grandchildren comments and so on all the way down.
+When a comment thread is collapsed, the `[+x]` number on the right indicates the total number of hidden children comments.
 
 ### Shadowbanning
 
@@ -84,7 +84,7 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 
 The Guidelines state that *most* political discussion is *probably* off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
 
-### Implicit Downranking of topics around Diversity and Inclusion
+### Implicit Downranking of Topics Around Diversity and Inclusion
 
 Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
@@ -128,19 +128,17 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 * [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
 * [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
 
-This list is currently missing these additional links:
+The list on HN is currently missing these additional links:
 
 * [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 
-### Hackernews - Search
+### Hacker News Search
 
-Want to search the entire Hacker News database of submissions? Then "HN Search" provides real-time full-text search for the HackerNews community site. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
+[HN Search](https://hn.algolia.com/) provides real-time full-text search for Hacker News. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
 
-* [HN Search](https://hn.algolia.com/)
+### Filter Out Posts Below X Points
 
-### Filter out posts below a set number of votes
-
-Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with `over?points=100`. Examples:
+Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with the `over?points=100` URL parameter. Examples:
 
 * [over 100 points](https://news.ycombinator.com/over?points=100)
 * [over 200 points](https://news.ycombinator.com/over?points=200)
