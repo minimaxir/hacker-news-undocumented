@@ -36,6 +36,8 @@ If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/t
 
 If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [complete set](https://news.ycombinator.com/topcolors) of colors users have set.
 
+When browsing the site from a mobile phone, and when the battery is low, the top bar becomes red.
+
 ### Anti-Voting Manipulation
 
 The FAQ states "users should vote for a story because they personally find it intellectually interesting, not because someone has content to promote." Indeed, Hacker News [utilizes](https://news.ycombinator.com/item?id=7972941) a voting ring detector which will prevent caught submissions from hitting the front page. Due to sites like [Product Hunt](https://www.producthunt.com) normalizing the asking for upvotes or other engagement via social media, the implicit asking of upvotes is also done for Hacker News, usually due to [ignorance](https://twitter.com/minimaxir/status/958397508996055040) of the Hacker News rule against it. There are very few good reasons to draw attention to a Hacker News submission immediately after it has been submitted.
