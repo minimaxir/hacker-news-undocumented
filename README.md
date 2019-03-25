@@ -146,6 +146,7 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/favorites?id=[name]
 - https://news.ycombinator.com/favorites?id=[name]&comment=t
 - https://news.ycombinator.com/front?day=[day]
+- https://news.ycombinator.com/from?site=[domain]
 - https://news.ycombinator.com/leaders
 - https://news.ycombinator.com/newcomments
 - https://news.ycombinator.com/newest
