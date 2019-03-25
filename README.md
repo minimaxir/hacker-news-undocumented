@@ -136,6 +136,29 @@ The list on HN is currently missing these additional links:
 
 * [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 
+### All public URLS
+
+- https://news.ycombinator.com/active
+- https://news.ycombinator.com/ask
+- https://news.ycombinator.com/best
+- https://news.ycombinator.com/bestcomments
+- https://news.ycombinator.com/classic
+- https://news.ycombinator.com/favorites?id=[name]
+- https://news.ycombinator.com/favorites?id=[name]&comment=t
+- https://news.ycombinator.com/front?day=[day]
+- https://news.ycombinator.com/leaders
+- https://news.ycombinator.com/newcomments
+- https://news.ycombinator.com/newest
+- https://news.ycombinator.com/noobcomments
+- https://news.ycombinator.com/noobstories
+- https://news.ycombinator.com/over?points=[score.to_i]
+- https://news.ycombinator.com/show
+- https://news.ycombinator.com/shownew
+- https://news.ycombinator.com/submitted?id=[name]
+- https://news.ycombinator.com/threads?id=[name]
+- https://news.ycombinator.com/topcolors
+- https://news.ycombinator.com/user?id=[name]
+
 ### Hacker News Search
 
 [HN Search](https://hn.algolia.com/) provides real-time full-text search for Hacker News. The web app is [open source](https://github.com/algolia/hn-search) and powered by Algolia Search.
