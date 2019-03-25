@@ -151,7 +151,7 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/newest
 - https://news.ycombinator.com/noobcomments
 - https://news.ycombinator.com/noobstories
-- https://news.ycombinator.com/over?points=[score.to_i]
+- https://news.ycombinator.com/over?points=[score]
 - https://news.ycombinator.com/show
 - https://news.ycombinator.com/shownew
 - https://news.ycombinator.com/submitted?id=[name]
