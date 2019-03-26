@@ -136,7 +136,7 @@ The list on HN is currently missing these additional links:
 
 * [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 
-### All public URLS
+### All public URLS with user-generated content
 
 - https://news.ycombinator.com/active
 - https://news.ycombinator.com/ask
