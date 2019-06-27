@@ -106,6 +106,10 @@ Additionally, founders of YC companies see each other's usernames [show up in or
 
 HN submissions which are tutorials are [downranked by moderators](https://news.ycombinator.com/item?id=16485753), as they gratify intellectual curiosity less.
 
+### Comments sorting
+
+Comments are sorted by their not visible scores. Some additional information can be found [here](https://news.ycombinator.com/item?id=7287535).
+
 ## Bonus Features
 
 ### Hacker News Classic
