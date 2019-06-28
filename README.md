@@ -108,7 +108,7 @@ HN submissions which are tutorials are [downranked by moderators](https://news.y
 
 ### Comments sorting
 
-Comments are sorted by their not visible scores. Some additional information can be found [here](https://news.ycombinator.com/item?id=7287535).
+Comments are sorted by their invisible scores. Some additional information can be found in [this comment](https://news.ycombinator.com/item?id=7287535).
 
 ## Bonus Features
 
