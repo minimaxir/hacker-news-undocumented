@@ -136,6 +136,7 @@ The list on HN is currently missing these additional links:
 
 * [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 * [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
+* [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
 
 ### All public URLS with user-generated content
 
