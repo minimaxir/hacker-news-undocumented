@@ -88,6 +88,10 @@ The Guidelines state that *most* political discussion is *probably* off-topic. H
 
 Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
+# Implicit Downranking of Posts Without URLs
+
+[Posts without URLs get penalized](https://news.ycombinator.com/item?id=21874086). If you post with a link and then add the text as a first comment you have more visibility.
+
 ### Paywalls
 
 Many news websites have started implementing a paywall for their content, which has caused conflict with Hacker News's "original source" rule. The `web` button next to submissions (that does a DuckDuckGo search for the given title) was partially intended to serve as a paywall workaround; however, recent changes to the paywall implementations have closed that loophole.
