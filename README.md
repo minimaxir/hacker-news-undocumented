@@ -6,6 +6,42 @@ However, in maintaining its simplicity, many new features and behaviors added ov
 
 *This list has no affiliation with Hacker News, Y Combinator, or any YC-backed company.*
 
+
+**Table of Contents**
+
+<!--ts-->
+  * [Undocumented Features](#undocumented-features)
+     * [Moderators](#moderators)
+     * [Downvoting Comments](#downvoting-comments)
+     * [Flagging/Vouching](#flaggingvouching)
+     * [Setting Top Color](#setting-top-color)
+     * [Anti-Voting Manipulation](#anti-voting-manipulation)
+     * [Flame-War Detector](#flame-war-detector)
+     * [Second-Chance Pool](#second-chance-pool)
+     * [Edit/Delete Time Limits](#editdelete-time-limits)
+     * [Comment Collapsing](#comment-collapsing)
+     * [Shadowbanning](#shadowbanning)
+     * [Green Usernames](#green-usernames)
+  * [Behaviors](#behaviors)
+     * [Implicit Downranking of Politics](#implicit-downranking-of-politics)
+     * [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
+     * [Paywalls](#paywalls)
+     * [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
+     * [Downranking of Tutorials](#downranking-of-tutorials)
+  * [Bonus Features](#bonus-features)
+     * [Hacker News Classic](#hacker-news-classic)
+     * [Hacker News Wayback](#hacker-news-wayback)
+     * [Hacker News on BigQuery](#hacker-news-on-bigquery)
+     * [Hacker News Lists](#hacker-news-lists)
+     * [Hacker News Search](#hacker-news-search)
+     * [Filter Out Posts Below X Points](#filter-out-posts-below-x-points)
+  * [To-Do](#to-do)
+  * [Maintainer](#maintainer)
+
+<!--te-->
+
+
+
 ## Undocumented Features
 
 ### Moderators
