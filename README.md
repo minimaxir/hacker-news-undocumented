@@ -23,10 +23,10 @@ All comments start with a score of 1 point (but in order to prevent bandwagoning
 Complaining about being downvoted is discouraged and usually results in even more downvotes.
 
 If the comment desaturation makes Hacker News difficult to read,  you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
-  
+
 ### Flagging/Vouching
 
-If a user has **31 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is supposed to be used for submissions which break the site guidelines, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly. 
+If a user has **31 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is supposed to be used for submissions which break the site guidelines, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly.
 
 A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
 
@@ -55,6 +55,8 @@ Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?
 ### Edit/Delete Time Limits
 
 After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't).
+
+Moderators can change the title of a submission at any time. 
 
 If you need something deleted but you can't, you'll have to message [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
