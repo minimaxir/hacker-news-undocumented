@@ -4,43 +4,44 @@
 
 However, in maintaining its simplicity, many new features and behaviors added over the years on Hacker News are not fully documented other than the [occasional](https://news.ycombinator.com/item?id=12073675) comments from staff. This list details some of the hidden norms about Hacker News not otherwise covered in the [Guidelines](https://news.ycombinator.com/newsguidelines.html) and the [FAQ](https://news.ycombinator.com/newsfaq.html), along with a few bonus features outside of typical HN usage. If there is anything missing/incorrect from this list, feel free to file a GitHub issue/PR.
 
-*This list has no affiliation with Hacker News, Y Combinator, or any YC-backed company.*
-
+_This list has no affiliation with Hacker News, Y Combinator, or any YC-backed company._
 
 **Table of Contents**
 
 <!--ts-->
-  * [Undocumented Features](#undocumented-features)
-     * [Moderators](#moderators)
-     * [Downvoting Comments](#downvoting-comments)
-     * [Flagging/Vouching](#flaggingvouching)
-     * [Setting Top Color](#setting-top-color)
-     * [Anti-Voting Manipulation](#anti-voting-manipulation)
-     * [Flame-War Detector](#flame-war-detector)
-     * [Second-Chance Pool](#second-chance-pool)
-     * [Edit/Delete Time Limits](#editdelete-time-limits)
-     * [Comment Collapsing](#comment-collapsing)
-     * [Shadowbanning](#shadowbanning)
-     * [Green Usernames](#green-usernames)
-  * [Behaviors](#behaviors)
-     * [Implicit Downranking of Politics](#implicit-downranking-of-politics)
-     * [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
-     * [Paywalls](#paywalls)
-     * [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
-     * [Downranking of Tutorials](#downranking-of-tutorials)
-  * [Bonus Features](#bonus-features)
-     * [Hacker News Classic](#hacker-news-classic)
-     * [Hacker News Wayback](#hacker-news-wayback)
-     * [Hacker News on BigQuery](#hacker-news-on-bigquery)
-     * [Hacker News Lists](#hacker-news-lists)
-     * [Hacker News Search](#hacker-news-search)
-     * [Filter Out Posts Below X Points](#filter-out-posts-below-x-points)
-  * [To-Do](#to-do)
-  * [Maintainer](#maintainer)
+
+- [A List of Hacker News's Undocumented Features and Behaviors](#a-list-of-hacker-newss-undocumented-features-and-behaviors)
+  - [Undocumented Features](#undocumented-features)
+    - [Moderators](#moderators)
+    - [Downvoting Comments](#downvoting-comments)
+    - [Flagging/Vouching](#flaggingvouching)
+    - [Setting Top Color](#setting-top-color)
+    - [Anti-Voting Manipulation](#anti-voting-manipulation)
+    - [Flame-War Detector](#flame-war-detector)
+    - [Second-Chance Pool](#second-chance-pool)
+    - [Edit/Delete Time Limits](#editdelete-time-limits)
+    - [Comment Collapsing](#comment-collapsing)
+    - [Shadowbanning](#shadowbanning)
+    - [Green Usernames](#green-usernames)
+  - [Behaviors](#behaviors)
+    - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
+    - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
+- [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
+    - [Paywalls](#paywalls)
+    - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
+    - [Downranking of Tutorials](#downranking-of-tutorials)
+  - [Bonus Features](#bonus-features)
+    - [Hacker News Classic](#hacker-news-classic)
+    - [Hacker News Wayback](#hacker-news-wayback)
+    - [Hacker News on BigQuery](#hacker-news-on-bigquery)
+    - [Hacker News Lists](#hacker-news-lists)
+    - [All public URLS with user-generated content](#all-public-urls-with-user-generated-content)
+    - [Hacker News Search](#hacker-news-search)
+    - [Filter Out Posts Below X Points](#filter-out-posts-below-x-points)
+  - [To-Do](#to-do)
+  - [Maintainer](#maintainer)
 
 <!--te-->
-
-
 
 ## Undocumented Features
 
@@ -58,7 +59,7 @@ All comments start with a score of 1 point (but in order to prevent bandwagoning
 
 Complaining about being downvoted is discouraged and usually results in even more downvotes.
 
-If the comment desaturation makes Hacker News difficult to read,  you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
+If the comment desaturation makes Hacker News difficult to read, you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
 
 ### Flagging/Vouching
 
@@ -92,7 +93,7 @@ Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?
 
 After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't).
 
-Moderators can change the title of a submission at any time. 
+Moderators can change the title of a submission at any time.
 
 If you need something deleted but you can't, you'll have to message [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
@@ -120,7 +121,7 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 
 ### Implicit Downranking of Politics
 
-The Guidelines state that *most* political discussion is *probably* off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
+The Guidelines state that _most_ political discussion is _probably_ off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
 
 ### Implicit Downranking of Topics Around Diversity and Inclusion
 
@@ -166,19 +167,19 @@ If you want to gather large amount of Hacker News data for data analysis/machine
 
 Hacker News maintains a [list of useful links](https://news.ycombinator.com/lists) that allow for primitive filtering by certain types of content. These currently include:
 
-* [/leaders](https://news.ycombinator.com/leaders) — View a list of users with the most karma
-* [/front](https://news.ycombinator.com/front) — Filter front page submissions for a given day (e.g. 2016-06-20), ordered by time spent there
-* [/best](https://news.ycombinator.com/best) — View the highest-voted recent links
-* [/active](https://news.ycombinator.com/active) — View the links with the most active current discussions
-* [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
-* [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
-* [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
+- [/leaders](https://news.ycombinator.com/leaders) — View a list of users with the most karma
+- [/front](https://news.ycombinator.com/front) — Filter front page submissions for a given day (e.g. 2016-06-20), ordered by time spent there
+- [/best](https://news.ycombinator.com/best) — View the highest-voted recent links
+- [/active](https://news.ycombinator.com/active) — View the links with the most active current discussions
+- [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
+- [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
+- [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
 
 The list on HN is currently missing these additional links:
 
-* [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
-* [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
-* [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
+- [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
+- [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
+- [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
 
 ### All public URLS with user-generated content
 
@@ -213,15 +214,15 @@ The list on HN is currently missing these additional links:
 
 Want to catch-up on the best submissions over the last few days? Filter out all posts below a certain threshold with the `over?points=100` URL parameter. Examples:
 
-* [over 100 points](https://news.ycombinator.com/over?points=100)
-* [over 200 points](https://news.ycombinator.com/over?points=200)
+- [over 100 points](https://news.ycombinator.com/over?points=100)
+- [over 200 points](https://news.ycombinator.com/over?points=200)
 
 ## To-Do
 
-* Add more images/citations
+- Add more images/citations
 
 ## Maintainer
 
 Max Woolf ([@minimaxir](http://minimaxir.com), [minimaxir](https://news.ycombinator.com/user?id=minimaxir) on Hacker News since 2012)
 
-*Max has no affiliation with Hacker News, Y Combinator, or any YC-backed company.*
+_Max has no affiliation with Hacker News, Y Combinator, or any YC-backed company._
