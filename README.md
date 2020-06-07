@@ -26,11 +26,11 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
   - [Behaviors](#behaviors)
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
-- [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
+    - [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
     - [Paywalls](#paywalls)
     - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
     - [Downranking of Tutorials](#downranking-of-tutorials)
-  - [Bonus Features](#bonus-features)
+- [Bonus Features](#bonus-features)
     - [Hacker News Classic](#hacker-news-classic)
     - [Hacker News Wayback](#hacker-news-wayback)
     - [Hacker News on BigQuery](#hacker-news-on-bigquery)
@@ -127,7 +127,7 @@ The Guidelines state that _most_ political discussion is _probably_ off-topic. H
 
 Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
-# Implicit Downranking of Posts Without URLs
+### Implicit Downranking of Posts Without URLs
 
 [Posts without URLs get penalized](https://news.ycombinator.com/item?id=21874086). If you post with a link and then add the text as a first comment you have more visibility.
 
