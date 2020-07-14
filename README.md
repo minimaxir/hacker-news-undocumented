@@ -37,6 +37,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Hacker News on BigQuery](#hacker-news-on-bigquery)
     - [Hacker News Lists](#hacker-news-lists)
     - [All public URLS with user-generated content](#all-public-urls-with-user-generated-content)
+    - [Official RSS feeds](#official-rss-feeds)
     - [Hacker News Search](#hacker-news-search)
     - [Filter Out Posts Below X Points](#filter-out-posts-below-x-points)
   - [To-Do](#to-do)
@@ -210,6 +211,11 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/threads?id=[name]
 - https://news.ycombinator.com/topcolors
 - https://news.ycombinator.com/user?id=[name]
+
+### Official RSS feeds
+
+- https://news.ycombinator.com/rss maps the frontpage.
+- https://news.ycombinator.com/rss maps the Show HN page.
 
 ### Hacker News Search
 
