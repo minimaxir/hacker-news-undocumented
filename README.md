@@ -215,7 +215,7 @@ The list on HN is currently missing these additional links:
 ### Official RSS feeds
 
 - https://news.ycombinator.com/rss maps the frontpage.
-- https://news.ycombinator.com/rss maps the Show HN page.
+- https://news.ycombinator.com/showrss maps the Show HN page.
 
 ### Hacker News Search
 
