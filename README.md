@@ -159,7 +159,7 @@ HN submissions which are tutorials are [downranked by moderators](https://news.y
 
 ### Hacker News Classic
 
-Hacker News allows people to use the [old front page ranking algorithm](https://news.ycombinator.com/classic), which only [counts votes](https://news.ycombinator.com/item?id=16442776) from early users.
+Hacker News allows people to use the [old front page ranking algorithm](https://news.ycombinator.com/classic), which only [counts votes](https://news.ycombinator.com/item?id=16442776) from early users. Early users are defined as being created before [Feb 13, 2008](https://news.ycombinator.com/item?id=24401292).
 
 ### Hacker News Wayback
 
