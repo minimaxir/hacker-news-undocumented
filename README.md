@@ -19,7 +19,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Anti-Voting Manipulation](#anti-voting-manipulation)
     - [Flame-War Detector](#flame-war-detector)
     - [Second-Chance Pool](#second-chance-pool)
-    - [Edit/Delete Time Limits](#editdelete-time-limits)
+    - [Edit/Delete/Reply Time Limits](#editdeletereply-time-limits)
     - [Comment Collapsing](#comment-collapsing)
     - [Shadowbanning](#shadowbanning)
     - [Green Usernames](#green-usernames)
@@ -91,9 +91,9 @@ Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=1
 
 Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?id=10308900) via email to resubmit a post which didn't get much traction.
 
-### Edit/Delete Time Limits
+### Edit/Delete/Reply Time Limits
 
-After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This may result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't).
+After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't). A comment can be replied to for 14 days from it's creation.
 
 Moderators can change the title of a submission at any time.
 
