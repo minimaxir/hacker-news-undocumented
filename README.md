@@ -93,7 +93,7 @@ Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?
 
 ### Edit/Delete/Reply Time Limits
 
-After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't). A comment can be replied to for 14 days from it's creation.
+After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't). A comment can be replied to for **14 days** from it's creation.
 
 Moderators can change the title of a submission at any time.
 
