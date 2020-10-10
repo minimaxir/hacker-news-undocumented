@@ -27,7 +27,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
   - [Behaviors](#behaviors)
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
-- [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
+    - [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
     - [Paywalls](#paywalls)
     - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
     - [Downranking of Tutorials](#downranking-of-tutorials)
