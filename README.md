@@ -133,7 +133,7 @@ The Guidelines state that _most_ political discussion is _probably_ off-topic. H
 
 Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
-# Implicit Downranking of Posts Without URLs
+### Implicit Downranking of Posts Without URLs
 
 [Posts without URLs get penalized](https://news.ycombinator.com/item?id=21874086). If you post with a link and then add the text as a first comment you have more visibility.
 
