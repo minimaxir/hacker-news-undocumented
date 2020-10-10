@@ -1,4 +1,4 @@
-# A List of Hacker News's Undocumented Features and Behaviors
+# A List of Hacker News' Undocumented Features and Behaviors
 
 [Hacker News](https://news.ycombinator.com), a simple link aggregator owned and operated by Silicon Valley startup incubator [Y Combinator](http://www.ycombinator.com), has had many [positive effects](https://news.ycombinator.com/item?id=16409768) on SV startups and engineers as a whole. On Hacker News, users receive Karma whenever another user upvotes a submission or comment they made, which incentives positive contributions to the community.
 
@@ -49,17 +49,17 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
 
 ### Moderators
 
-Hacker News currently has two full time moderators: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)) and Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)). Their [comment](https://news.ycombinator.com/threads?id=dang) [replies](https://news.ycombinator.com/threads?id=sctb) provide a pseudo-log of Hacker News moderation.
+Hacker News currently has one full time moderator: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)). His [comment](https://news.ycombinator.com/threads?id=dang) [replies](https://news.ycombinator.com/threads?id=sctb) provide a pseudo-log of Hacker News moderation. Previously, Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)) was also a moderator, though they have been inactive since the end of 2019.
 
-Both are very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombinator.com), and is the best option for resolving any issues on Hacker News.
+Moderation is very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombinator.com), and is the best option for resolving any issues on Hacker News.
 
 ### Downvoting Comments
 
-All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points. You cannot downvote comments which are direct replies to your own comment, and you cannot downvote **24 hours** after the original comment was made.
+All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users, in order to deemphasize them. There is no upper limit on the score of a comment, but the minimum score is **-4** points. You cannot downvote comments which are **direct replies to your own comment**, and you cannot downvote **24 hours** after the original comment was made.
 
 ![](/images/hn_downvotes.png)
 
-Complaining about being downvoted is discouraged and usually results in even more downvotes.
+Complaining about being downvoted is discouraged and usually results in _more_ downvotes.
 
 If the comment desaturation makes Hacker News difficult to read, you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
 
@@ -67,9 +67,9 @@ If the comment desaturation makes Hacker News difficult to read, you can click o
 
 If a user has **31 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is supposed to be used for submissions which break the site guidelines, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly.
 
-A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
+A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the site software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
 
-If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags), but it can be `[dead]` again at which point it can't be re-vouched.
+If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags), but it can be made `[dead]` again at which point it can't be re-vouched.
 
 ### Setting Top Color
 
@@ -77,7 +77,7 @@ If a user has **251 Karma**, they can set the color of the top bar in their prof
 
 ### Anti-Voting Manipulation
 
-The FAQ states "users should vote for a story because they personally find it intellectually interesting, not because someone has content to promote." Indeed, Hacker News [utilizes](https://news.ycombinator.com/item?id=7972941) a voting ring detector which will prevent caught submissions from hitting the front page. Due to sites like [Product Hunt](https://www.producthunt.com) normalizing the asking for upvotes or other engagement via social media, the implicit asking of upvotes is also done for Hacker News, usually due to [ignorance](https://twitter.com/minimaxir/status/958397508996055040) of the Hacker News rule against it. There are very few good reasons to draw attention to a Hacker News submission immediately after it has been submitted.
+The FAQ states "users should vote for a story because they personally find it intellectually interesting, not because someone has content to promote." To this end, Hacker News [utilizes](https://news.ycombinator.com/item?id=7972941) a voting ring detector which will prevent suspect submissions from hitting the front page. Due to sites like [Product Hunt](https://www.producthunt.com) normalizing the asking for upvotes or other engagement via social media, the implicit asking of upvotes is also done at Hacker News, usually due to [ignorance](https://twitter.com/minimaxir/status/958397508996055040) of the Hacker News rule against it. There are very few good reasons to draw attention to a Hacker News submission immediately after it has been submitted.
 
 One popular "trick" for obfuscating voting manipulation on Hacker News is to link to the Hacker News's `/newest` page of new submissions (instead of a direct link which would otherwise make voting manipulation obvious), and asking friends to upvote the submission from that page. This trick doesn't actually work.
 
@@ -93,7 +93,7 @@ Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?
 
 ### Edit/Delete Time Limits
 
-After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't).
+After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This may result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't).
 
 Moderators can change the title of a submission at any time.
 
@@ -107,13 +107,13 @@ When a comment thread is collapsed, the `[+x]` number on the right indicates the
 
 ### Shadowbanning
 
-Both users and domains can be shadowbanned, where all posts/comments by that user / submissions to that domain will be instantly `[dead]` and cannot receive votes/comments (but can still be vouched). For accounts with a substantial history on Hacker News, moderators [will give warnings](https://news.ycombinator.com/item?id=16441707) before a ban.
+Both users and domains can be [shadowbanned](https://en.wikipedia.org/wiki/Shadow_banning), where all posts/comments by that user / submissions to that domain will be instantly `[dead]` and cannot receive votes/comments (but can still be vouched). For accounts with a substantial history on Hacker News, moderators [will give warnings](https://news.ycombinator.com/item?id=16441707) before a ban.
 
 A good way to tell if a user/domain is banned is to either have another user with `showdead` enabled check for a series of `[dead]` content from that source, or view those submissions in Private Browsing/Incognito mode to see if they appear.
 
 ![](/images/shadowban.png)
 
-Users/domains are usually shadowbanned for breaking HN rules/spam. If you feel you are unfairly shadowbanned, contact [hn@ycombinator.com](mailto:hn@ycombinator.com).
+Users/domains are usually shadowbanned for breaking HN rules, or for general spam. If you feel you are unfairly shadowbanned, contact [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
 ### Green Usernames
 
@@ -121,13 +121,13 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 
 ### Thin Black Bar
 
-Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be at the top of the front page at that time.
+Occasionally, there will be a thin black bar at the top of the top bar, placed in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be at the top of the front page at that time.
 
 ## Behaviors
 
 ### Implicit Downranking of Politics
 
-The Guidelines state that _most_ political discussion is _probably_ off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
+The Guidelines state that _most_ political discussion is _probably_ off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with excessive political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
 
 ### Implicit Downranking of Topics Around Diversity and Inclusion
 
@@ -141,11 +141,11 @@ Likewise, topics around diversity and inclusion in tech have gained lots of visi
 
 Many news websites have started implementing a paywall for their content, which has caused conflict with Hacker News's "original source" rule. The `web` button next to submissions (that does a Google search for the given title) was partially intended to serve as a paywall workaround; however, recent changes to the paywall implementations have closed that loophole.
 
-As a result, submissions which link to paywalled sites tend to get many comments complaining about paywalls, [which are off-topic](https://news.ycombinator.com/item?id=10178989).
+As a result, submissions which link to paywalled sites tend to get many comments complaining about paywalls, [which are off-topic](https://news.ycombinator.com/item?id=10178989). If a paywalled link becomes popular, it will almost always have an alternative source or archived link (using tools such as the [Wayback Machine](https://web.archive.org/) or [archive.today](https://archive.today)) posted by a user in the comments.
 
 ### Perceived Favoritism Toward YC Companies
 
-YC Companies get two notable benefits on Hacker News; they can post jobs ads to the front page (which start off at Rank #6, cannot be voted/commented on, and have a fixed decay rate), and the ability to do a [Launch HN](https://hn.algolia.com/?query=Launch%20HN&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story) when their startup launches out of a YC batch.
+YC Companies get two notable benefits on Hacker News; they can post jobs ads to the front page (which start at Rank #6, cannot be voted/commented on, and have a fixed decay rate), and the ability to do a [Launch HN](https://hn.algolia.com/?query=Launch%20HN&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story) when their startup launches out of a YC batch.
 
 Currently, there is no evidence that non-job submissions about a YC startup receive preferential treatment on the front page, or kill submissions critical of a YC startup. In fact, the moderators have stated that they explicitly [avoid killing controversial YC posts](https://news.ycombinator.com/item?id=8258752) when possible.
 
