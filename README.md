@@ -151,6 +151,8 @@ Currently, there is no evidence that non-job submissions about a YC startup rece
 
 Additionally, founders of YC companies see each other's usernames [show up in orange,](https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/) which — although not an explicit benefit — does allow fellow YC founders to immediately identify one another in discussions.
 
+![](/images/orange_names.png)
+
 ### Downranking of Tutorials
 
 HN submissions which are tutorials are [downranked by moderators](https://news.ycombinator.com/item?id=16485753), as they gratify intellectual curiosity less.
