@@ -49,7 +49,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
 
 ### Moderators
 
-Hacker News currently has one full time moderator: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)). His [comment](https://news.ycombinator.com/threads?id=dang) [replies](https://news.ycombinator.com/threads?id=sctb) provide a pseudo-log of Hacker News moderation. Previously, Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)) was also a moderator, though they have been inactive since the end of 2019.
+Hacker News currently has one full time moderator: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)). His [comment replies](https://news.ycombinator.com/threads?id=dang) provide a pseudo-log of Hacker News moderation. Previously, Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)) was also a moderator, though they have been inactive since the end of 2019.
 
 Moderation is very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombinator.com), and is the best option for resolving any issues on Hacker News.
 
@@ -67,7 +67,7 @@ If the comment desaturation makes Hacker News difficult to read, you can click o
 
 If a user has **31 Karma**, they can flag submissions. Although submissions cannot be downvoted, flags act as a "super" downvote and enough flags will strongly reduce the rank of the submission, or kill it entirely (flagging is supposed to be used for submissions which break the site guidelines, but that isn't always the case in practice). A submission that's flagged to death will have a `[flagged]` tag. Comments behave similarly.
 
-A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the site software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
+A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by automatic site heuristics. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
 
 If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags), but it can be made `[dead]` again at which point it can't be re-vouched.
 
