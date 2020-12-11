@@ -24,6 +24,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Shadowbanning](#shadowbanning)
     - [Green Usernames](#green-usernames)
     - [Thin Black Bar](#thin-black-bar)
+    - [Automated title rewriting](#automated-title-rewriting)
   - [Behaviors](#behaviors)
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
@@ -122,6 +123,10 @@ Accounts which are less than **2 weeks** old will appear with a green username.
 ### Thin Black Bar
 
 Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be at the top of the front page at that time.
+
+## Automated title rewriting
+
+If you submit a link with a title like "The inside story of Uber's Obj-C to Swift rewrite" the Hacker News software will automatically remove the cliché and change the title to "Uber's Obj-C to Swift rewrite".
 
 ## Behaviors
 
