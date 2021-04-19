@@ -49,9 +49,9 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
 
 ### Moderators
 
-Hacker News currently has two full time moderators: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)) and Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)). Their [comment](https://news.ycombinator.com/threads?id=dang) [replies](https://news.ycombinator.com/threads?id=sctb) provide a pseudo-log of Hacker News moderation.
+Hacker News currently has one full time moderator: Dan Gackle ([dang](https://news.ycombinator.com/user?id=dang)), and formerly Scott Bell ([sctb](https://news.ycombinator.com/user?id=sctb)). Their [comment](https://news.ycombinator.com/threads?id=dang) [replies](https://news.ycombinator.com/threads?id=sctb) provide a pseudo-log of Hacker News moderation.
 
-Both are very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombinator.com), and is the best option for resolving any issues on Hacker News.
+Dan is very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombinator.com), and is the best option for resolving any issues on Hacker News.
 
 ### Downvoting Comments
 
