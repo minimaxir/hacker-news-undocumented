@@ -101,9 +101,9 @@ If you need something deleted but you can't, you'll have to message [hn@ycombina
 
 ### Comment Collapsing
 
-Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are sometimes collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
+Comments can be collapsed by clicking the `[-]` icon to improve readability.`[flagged]` comments are sometimes collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
 
-When a comment thread is collapsed, the `[+x]` number on the right indicates the total number of hidden children comments.
+When a comment thread is collapsed, the `[n more]` number on the right indicates the total number (n) of hidden children comments.
 
 ### Shadowbanning
 
