@@ -87,7 +87,7 @@ The FAQ notes that submission rank is impacted by "[software which downweights o
 
 ### Second-Chance Pool
 
-Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=11662380) which didn't receive a lot of upvotes and reset the submission time on the post. (This is also one of the reasons why the FAQ discourages deleting submissions).
+Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=11662380) which didn't receive a lot of upvotes and reset the submission time on the post. (This is also one of the reasons why the FAQ discourages deleting submissions). This also resets the submission time on any comments on that post to match the new submission time for the post itself.
 
 Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?id=10308900) via email to resubmit a post which didn't get much traction.
 
