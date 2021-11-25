@@ -180,12 +180,12 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
 - [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
 - [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
-
-The list on HN is currently missing these additional links:
-
 - [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
+- [/asknew](https://news.ycombinator.com/asknew) — View new Ask HN posts
 - [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
 - [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
+- [/pool](https://news.ycombinator.com/pool) — View links selected for a second chance at the front page
+- [/whoishiring](https://news.ycombinator.com/submitted?id=whoishiring) — View monthly "Who Is Hiring" threads
 
 ### All public URLS with user-generated content
 
@@ -207,10 +207,12 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/over?points=[score]
 - https://news.ycombinator.com/show
 - https://news.ycombinator.com/shownew
+- https://news.ycombinator.com/asknew
 - https://news.ycombinator.com/submitted?id=[name]
 - https://news.ycombinator.com/threads?id=[name]
 - https://news.ycombinator.com/topcolors
 - https://news.ycombinator.com/user?id=[name]
+- https://news.ycombinator.com/pool
 
 ### Official RSS feeds
 
