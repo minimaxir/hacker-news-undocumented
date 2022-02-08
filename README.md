@@ -211,6 +211,8 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/threads?id=[name]
 - https://news.ycombinator.com/topcolors
 - https://news.ycombinator.com/user?id=[name]
+- https://news.ycombinator.com/vouched?id=[name]
+- https://news.ycombinator.com/flagged?id=[name]
 
 ### Official RSS feeds
 
