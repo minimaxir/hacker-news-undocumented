@@ -36,7 +36,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Hacker News Wayback](#hacker-news-wayback)
     - [Hacker News on BigQuery](#hacker-news-on-bigquery)
     - [Hacker News Lists](#hacker-news-lists)
-    - [All public URLS with user-generated content](#all-public-urls-with-user-generated-content)
+    - [Public URLS with user-generated content](#public-urls-with-user-generated-content)
     - [Official RSS feeds](#official-rss-feeds)
     - [Hacker News Search](#hacker-news-search)
     - [Filter Out Posts Below X Points](#filter-out-posts-below-x-points)
@@ -69,7 +69,7 @@ If a user has **31 Karma**, they can flag submissions. Although submissions cann
 
 A `[dead]` submission (that does not also show `[flagged]`) is killed by a moderator or by the software. They will only be shown to users who have `showdead` enabled in their profile. A submission can simultaneously be `[flagged]` and `[dead]`.
 
-If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags), but it can be `[dead]` again at which point it can't be re-vouched.
+If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags).
 
 ### Setting Top Color
 
@@ -91,6 +91,8 @@ Moderators will sometimes [rescue a post](https://news.ycombinator.com/item?id=1
 
 Relatedly, moderators can also [invite users](https://news.ycombinator.com/item?id=10308900) via email to resubmit a post which didn't get much traction.
 
+Posts benefiting from this program are visible at https://news.ycombinator.com/pool .
+
 ### Edit/Delete Time Limits
 
 After a post or comment is made, it can be edited by the author **within 2 hours**. A post/comment can be deleted by the author within those two hours, **but only if it has no replies**, in order to prevent discussion from being lost. In that case, the post/comment **cannot be deleted** (This can result in a fake `[deleted]` edit if a person wants to remove their comment in the limit but can't). Users can [upvote posts from any time](https://news.ycombinator.com/item?id=28817791) as a "bookmarking" feature.
@@ -103,7 +105,7 @@ If you need something deleted but you can't, you'll have to message [hn@ycombina
 
 Comments can be collapsed by clicking the `[+]` icon to improve readability.`[flagged]` comments are sometimes collapsed by default, and moderators can set a comment to automatically be collapsed if necessary (e.g. meta-discussion).
 
-When a comment thread is collapsed, the `[+x]` number on the right indicates the total number of hidden children comments.
+When a comment thread is collapsed, the `[x more]` number on the right indicates the total number of hidden children comments.
 
 ### Shadowbanning
 
@@ -117,17 +119,19 @@ Users/domains are usually shadowbanned for breaking HN rules/spam. If you feel y
 
 ### Green Usernames
 
-Accounts which are less than **2 weeks** old will appear with a green username.
+Accounts which are less than **2 weeks** old at time of submitting/commenting will appear with a green username.
 
 ### Thin Black Bar
 
-Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be at the top of the front page at that time.
+Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be on the front page at that time.
 
 ## Behaviors
 
 ### Implicit Downranking of Politics
 
 The Guidelines state that _most_ political discussion is _probably_ off-topic. However, the line between technology and politics is blurred, especially as of recently. Most tech related submissions with a hint of political partisanship will quickly be flagged to death by users (or die a slow death due to the inevitable flame war).
+
+dang has commented about this issue [many times over the years](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&sort=byDate&type=comment&query=political%20overlap%20by:dang).
 
 ### Implicit Downranking of Topics Around Diversity and Inclusion
 
@@ -139,7 +143,7 @@ Likewise, topics around diversity and inclusion in tech have gained lots of visi
 
 ### Paywalls
 
-Many news websites have started implementing a paywall for their content, which has caused conflict with Hacker News's "original source" rule. The `web` button next to submissions (that does a Google search for the given title) was partially intended to serve as a paywall workaround; however, recent changes to the paywall implementations have closed that loophole.
+Many news websites have started implementing a paywall for their content, which has caused conflict with Hacker News's "original source" rule.
 
 As a result, submissions which link to paywalled sites tend to get many comments complaining about paywalls, [which are off-topic](https://news.ycombinator.com/item?id=10178989).
 
@@ -163,7 +167,7 @@ Hacker News allows people to use the [old front page ranking algorithm](https://
 
 ### Hacker News Wayback
 
-Hacker News allows users to see what the front page looks like [at any point in time](https://news.ycombinator.com/front?day=2012-03-24). You can also do a wayback view for any user at their registration date by clicking their registration date in their profile.
+Hacker News allows users to see what the front page looks like [at any point in time](https://news.ycombinator.com/front?day=2012-03-24), representing a weighted view of the submissions from that 24 hour period. You can also do a wayback view for any user at their registration date by clicking their registration date in their profile.
 
 ### Hacker News on BigQuery
 
@@ -187,7 +191,7 @@ The list on HN is currently missing these additional links:
 - [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
 - [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
 
-### All public URLS with user-generated content
+### Public URLS with user-generated content
 
 - https://news.ycombinator.com/active
 - https://news.ycombinator.com/ask
@@ -213,6 +217,7 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/user?id=[name]
 - https://news.ycombinator.com/vouched?id=[name]
 - https://news.ycombinator.com/flagged?id=[name]
+- https://news.ycombinator.com/pool
 
 ### Official RSS feeds
 
