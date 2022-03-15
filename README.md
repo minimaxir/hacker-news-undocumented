@@ -20,6 +20,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Flame-War Detector](#flame-war-detector)
     - [Second-Chance Pool](#second-chance-pool)
     - [Edit/Delete Time Limits](#editdelete-time-limits)
+    - [Unvote Time Limits](#unvote-time-limits)
     - [Comment Collapsing](#comment-collapsing)
     - [Shadowbanning](#shadowbanning)
     - [Green Usernames](#green-usernames)
@@ -100,6 +101,9 @@ After a post or comment is made, it can be edited by the author **within 2 hours
 Moderators can change the title of a submission at any time.
 
 If you need something deleted but you can't, you'll have to message [hn@ycombinator.com](mailto:hn@ycombinator.com).
+
+### Unvote Time Limits
+After a user votes on a post or comment, it can be unvoted [**within 1 hour**](https://news.ycombinator.com/item?id=12073806). After that time, the vote becomes permanent.
 
 ### Comment Collapsing
 
