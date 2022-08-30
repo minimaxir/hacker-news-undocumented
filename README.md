@@ -22,6 +22,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Edit/Delete Time Limits](#editdelete-time-limits)
     - [Comment Collapsing](#comment-collapsing)
     - [Shadowbanning](#shadowbanning)
+    - [Hidden Reply Links](#hidden-reply-links)
     - [Green Usernames](#green-usernames)
     - [Thin Black Bar](#thin-black-bar)
   - [Behaviors](#behaviors)
@@ -116,6 +117,10 @@ A good way to tell if a user/domain is banned is to either have another user wit
 ![](/images/shadowban.png)
 
 Users/domains are usually shadowbanned for breaking HN rules/spam. If you feel you are unfairly shadowbanned, contact [hn@ycombinator.com](mailto:hn@ycombinator.com).
+
+### Hidden Reply Links
+
+If the comment depth is 3 or more, reply links are withheld until the comments age a while. The amount of aging is a function of the depth. You can get around it by clicking on the comment's timestamp to go to its own page.
 
 ### Green Usernames
 
