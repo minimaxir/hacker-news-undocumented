@@ -56,7 +56,7 @@ Dan is very responsive when contacted at [hn@ycombinator.com](mailto:hn@ycombina
 
 ### Downvoting Comments
 
-All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points. You cannot downvote comments which are direct replies to your own comment, and you cannot downvote **24 hours** after the original comment was made.
+All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users to deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points. You cannot downvote comments which are direct replies to your own comment, and you cannot downvote **24 hours** after the original comment was made.
 
 ![](/images/hn_downvotes.png)
 
