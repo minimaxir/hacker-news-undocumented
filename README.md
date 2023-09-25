@@ -187,19 +187,21 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - [/best](https://news.ycombinator.com/best) — View the highest-voted recent links
 - [/active](https://news.ycombinator.com/active) — View the links with the most active current discussions
 - [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
+- [/highlights](https://news.ycombinator.com/highlights) — 	Particularly interesting comments
 - [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
 - [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
-
-The list on HN is currently missing these additional links:
-
-- [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
+- [/pool](https://news.ycombinator.com/pool) — Links selected for a [second chance](https://news.ycombinator.com/item?id=26998308) at the front page
 - [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
-- [/launches](https://news.ycombinator.com/launches) — View Launch HN posts from YC companies
+- [/shownew](https://news.ycombinator.com/shownew) — View new [Show HN](https://news.ycombinator.com/show) links
+- [/asknew](https://news.ycombinator.com/asknew) — The latest [Ask HN](https://news.ycombinator.com/ask) (text) posts
+- [/whoishiring](https://news.ycombinator.com/submitted?id=whoishiring) – Monthly "Who Is Hiring" threads
+- [/launches](https://news.ycombinator.com/launches) — Launches of YC startups
 
 ### Public URLS with user-generated content
 
 - https://news.ycombinator.com/active
 - https://news.ycombinator.com/ask
+- https://news.ycombinator.com/asknew
 - https://news.ycombinator.com/best
 - https://news.ycombinator.com/bestcomments
 - https://news.ycombinator.com/classic
@@ -217,12 +219,15 @@ The list on HN is currently missing these additional links:
 - https://news.ycombinator.com/show
 - https://news.ycombinator.com/shownew
 - https://news.ycombinator.com/submitted?id=[name]
+- https://news.ycombinator.com/submitted?id=whoishiring
 - https://news.ycombinator.com/threads?id=[name]
 - https://news.ycombinator.com/topcolors
 - https://news.ycombinator.com/user?id=[name]
 - https://news.ycombinator.com/vouched?id=[name]
 - https://news.ycombinator.com/flagged?id=[name]
+- https://news.ycombinator.com/highlights
 - https://news.ycombinator.com/pool
+- https://news.ycombinator.com/invited
 
 ### Official RSS feeds
 
