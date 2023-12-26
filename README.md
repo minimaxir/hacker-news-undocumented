@@ -29,9 +29,9 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
 - [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
-    - [Paywalls](#paywalls)
-    - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
-    - [Downranking of Tutorials](#downranking-of-tutorials)
+  - [Paywalls](#paywalls)
+  - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
+  - [Downranking of Tutorials](#downranking-of-tutorials)
   - [Bonus Features](#bonus-features)
     - [Hacker News Classic](#hacker-news-classic)
     - [Hacker News Wayback](#hacker-news-wayback)
@@ -189,6 +189,7 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
 - [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
 - [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
+- [/highlights](https://news.ycombinator.com/highlights) — List curated high-quality comments
 
 The list on HN is currently missing these additional links:
 
