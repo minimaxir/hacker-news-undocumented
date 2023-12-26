@@ -1,6 +1,6 @@
 # A List of Hacker News's Undocumented Features and Behaviors
 
-[Hacker News](https://news.ycombinator.com), a simple link aggregator owned and operated by Silicon Valley startup incubator [Y Combinator](http://www.ycombinator.com), has had many [positive effects](https://news.ycombinator.com/item?id=16409768) on SV startups and engineers as a whole. On Hacker News, users receive Karma whenever another user upvotes a submission or comment they made, which incentives positive contributions to the community.
+[Hacker News](https://news.ycombinator.com), a simple link aggregator owned and operated by Silicon Valley startup incubator [Y Combinator](http://www.ycombinator.com), has had many [positive effects](https://news.ycombinator.com/item?id=16409768) on SV startups and engineers as a whole. On Hacker News, users receive Karma whenever another user upvotes a submission or comment they made, which incentivizes positive contributions to the community.
 
 However, in maintaining its simplicity, many new features and behaviors added over the years on Hacker News are not fully documented other than the [occasional](https://news.ycombinator.com/item?id=12073675) comments from staff. This list details some of the hidden norms about Hacker News not otherwise covered in the [Guidelines](https://news.ycombinator.com/newsguidelines.html) and the [FAQ](https://news.ycombinator.com/newsfaq.html), along with a few bonus features outside of typical HN usage. If there is anything missing/incorrect from this list, feel free to file a GitHub issue/PR.
 
