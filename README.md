@@ -15,7 +15,8 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Moderators](#moderators)
     - [Downvoting Comments](#downvoting-comments)
     - [Flagging/Vouching](#flaggingvouching)
-    - [Setting Top Color](#setting-top-color)
+    - [Top Bar Color](#top-bar-color)
+    - [Merry Christmas!](#merry-christmas)
     - [Anti-Voting Manipulation](#anti-voting-manipulation)
     - [Flame-War Detector](#flame-war-detector)
     - [Second-Chance Pool](#second-chance-pool)
@@ -72,9 +73,15 @@ A `[dead]` submission (that does not also show `[flagged]`) is killed by a moder
 
 If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/two-hn-announcements/) for a `[dead]` submission/comment. A vouched submission/comment has its rank restored (and potentially improved as the vouch can counteract the effects of flags).
 
-### Setting Top Color
+### Top Bar Color
 
-If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [list](https://news.ycombinator.com/topcolors) of colors from users who have recently posted.
+If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. The Y Combinator logo will change its color to match the top bar.
+
+Here's the [list](https://news.ycombinator.com/topcolors) of colors from users who have recently posted.
+
+### Merry Christmas!
+
+During Christmas (December 25th) UTC, the Hacker News front page will have a Christmas theme, with a dark red top bar, and alternating red and green submission ranking numbers.
 
 ### Anti-Voting Manipulation
 
