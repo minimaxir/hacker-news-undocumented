@@ -74,7 +74,7 @@ If a user has **31 Karma**, they can also [vouch](https://blog.ycombinator.com/t
 
 ### Setting Top Color
 
-If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [complete set](https://news.ycombinator.com/topcolors) of colors users have set.
+If a user has **251 Karma**, they can set the color of the top bar in their profile settings. The default is #ff6600. Here's the [list](https://news.ycombinator.com/topcolors) of colors from users who have recently posted.
 
 ### Anti-Voting Manipulation
 
