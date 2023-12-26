@@ -29,9 +29,9 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
 - [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
-    - [Paywalls](#paywalls)
-    - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
-    - [Downranking of Tutorials](#downranking-of-tutorials)
+  - [Paywalls](#paywalls)
+  - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
+  - [Downranking of Tutorials](#downranking-of-tutorials)
   - [Bonus Features](#bonus-features)
     - [Hacker News Classic](#hacker-news-classic)
     - [Hacker News Wayback](#hacker-news-wayback)
@@ -187,13 +187,14 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - [/best](https://news.ycombinator.com/best) — View the highest-voted recent links
 - [/active](https://news.ycombinator.com/active) — View the links with the most active current discussions
 - [/bestcomments](https://news.ycombinator.com/bestcomments) — List the highest-voted recent comments
-- [/highlights](https://news.ycombinator.com/highlights) — 	Particularly interesting comments
+- [/highlights](https://news.ycombinator.com/highlights) — List curated high-quality comments
 - [/noobstories](https://news.ycombinator.com/noobstories) — Show submissions from new accounts
 - [/noobcomments](https://news.ycombinator.com/noobcomments) — List comments from new accounts
 - [/pool](https://news.ycombinator.com/pool) — Links selected for a [second chance](https://news.ycombinator.com/item?id=26998308) at the front page
+- [/shownew](https://news.ycombinator.com/shownew) — View new Show HN links
 - [/invited](https://news.ycombinator.com/invited) — List of stories deemed interesting whose author was invited to repost in order to give them a second chance because they didn't catch interest at the first submit. More information here: https://news.ycombinator.com/item?id=20508960
 - [/shownew](https://news.ycombinator.com/shownew) — View new [Show HN](https://news.ycombinator.com/show) links
-- [/asknew](https://news.ycombinator.com/asknew) — The latest [Ask HN](https://news.ycombinator.com/ask) (text) posts
+- [/asknew](https://news.ycombinator.com/asknew) — Latest [Ask HN](https://news.ycombinator.com/ask) (text) posts
 - [/whoishiring](https://news.ycombinator.com/submitted?id=whoishiring) – Monthly "Who Is Hiring" threads
 - [/launches](https://news.ycombinator.com/launches) — Launches of YC startups
 
@@ -209,6 +210,7 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - https://news.ycombinator.com/favorites?id=[name]&comment=t
 - https://news.ycombinator.com/front?day=[day]
 - https://news.ycombinator.com/from?site=[domain]
+- https://news.ycombinator.com/highlights
 - https://news.ycombinator.com/item?id=[id]
 - https://news.ycombinator.com/leaders
 - https://news.ycombinator.com/newcomments
