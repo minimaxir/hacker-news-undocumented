@@ -14,6 +14,7 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
   - [Undocumented Features](#undocumented-features)
     - [Moderators](#moderators)
     - [Downvoting Comments](#downvoting-comments)
+    - [View Most Recent Thread Comments First](#view-most-recent-thread-comments-first)
     - [Flagging/Vouching](#flaggingvouching)
     - [Top Bar Color](#top-bar-color)
     - [Merry Christmas!](#merry-christmas)
@@ -65,6 +66,10 @@ All comments start with a score of 1 point (but in order to prevent bandwagoning
 Complaining about being downvoted is discouraged and usually results in even more downvotes.
 
 If the comment desaturation makes Hacker News difficult to read, you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
+
+### View Most Recent Thread Comments First
+
+If you are following the conversation on a thread it can be useful to see the most recently added comments first. You can do this using the undocumented `/latest?id=` endpoint. For example, for the thread [/item?id=42009039](https://news.ycombinator.com/item?id=42009039) you can see comments in reverse chronological order at [/latest?id=42009039](https://news.ycombinator.com/latest?id=42009039). This works for whole threads and also for nested replies to a sub-thread, using that comment's ID.
 
 ### Flagging/Vouching
 
@@ -223,6 +228,7 @@ Hacker News maintains a [list of useful links](https://news.ycombinator.com/list
 - https://news.ycombinator.com/from?site=[domain]
 - https://news.ycombinator.com/highlights
 - https://news.ycombinator.com/item?id=[id]
+- https://news.ycombinator.com/latest?id=[id]
 - https://news.ycombinator.com/leaders
 - https://news.ycombinator.com/newcomments
 - https://news.ycombinator.com/newest
