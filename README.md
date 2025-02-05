@@ -264,6 +264,14 @@ Want to catch-up on the best submissions over the last few days? Filter out all 
 - [over 100 points](https://news.ycombinator.com/over?points=100)
 - [over 200 points](https://news.ycombinator.com/over?points=200)
 
+### Administrator Pages
+
+The following URLs are not accessible to normal users and lead to a page that requests an administrator login. These URLs were discovered by reviewing the source code of the `news` sample included with the [Arc language](http://arclanguage.org/install) upon which Hacker News is based. Many of the urls included in the sample source code have since been removed, but these four appear to remain:
+- https://news.ycombinator.com/killed
+- https://news.ycombinator.com/badlogins
+- https://news.ycombinator.com/goodlogins
+- https://news.ycombinator.com/badips
+
 ## To-Do
 
 - Add more images/citations
