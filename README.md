@@ -192,7 +192,7 @@ Hacker News allows users to see what the front page looks like [at any point in 
 
 ### Hacker News on BigQuery
 
-If you want to gather large amount of Hacker News data for data analysis/machine learning, you should use the [Hacker News dataset on BigQuery](https://cloud.google.com/bigquery/public-data/hacker-news), which has submission and comment data [up to November 2022](https://github.com/minimaxir/hacker-news-undocumented/issues/66) and is much more pragmatic to use than manually scraping data from the Hacker News API.
+If you want to gather large amount of Hacker News data for data analysis/machine learning, you should use the [Hacker News dataset on BigQuery](https://cloud.google.com/bigquery/public-data/hacker-news), which has submission and comment data updated daily and is much more pragmatic to use than manually scraping data from the Hacker News API.
 
 ### Hacker News Lists
 
