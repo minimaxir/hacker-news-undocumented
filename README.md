@@ -17,7 +17,8 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [View Most Recent Thread Comments First](#view-most-recent-thread-comments-first)
     - [Flagging/Vouching](#flaggingvouching)
     - [Top Bar Color](#top-bar-color)
-    - [Merry Christmas!](#merry-christmas)
+      - [Thin Black Bar](#thin-black-bar)
+      - [Merry Christmas!](#merry-christmas)
     - [Anti-Voting Manipulation](#anti-voting-manipulation)
     - [Flame-War Detector](#flame-war-detector)
     - [Second-Chance Pool](#second-chance-pool)
@@ -27,7 +28,6 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Shadowbanning](#shadowbanning)
     - [Hidden Reply Links](#hidden-reply-links)
     - [Green Usernames](#green-usernames)
-    - [Thin Black Bar](#thin-black-bar)
   - [Behaviors](#behaviors)
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
@@ -85,7 +85,13 @@ If a user has **251 Karma**, they can set the color of the top bar in their prof
 
 Here's the [list](https://news.ycombinator.com/topcolors) of colors from users who have recently posted.
 
-### Merry Christmas!
+#### Thin Black Bar
+
+Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be on the front page at that time.
+
+A list of people who have been honored in this way between Jan. 2016 and Aug. 2023 was compiled [here](http://bear.willmeyers.net/whos-received-a-black-bar/) ([archived](https://web.archive.org/web/20230806034955/https://bear.willmeyers.net/whos-received-a-black-bar/)) but black bars go back to at least [2009](https://news.ycombinator.com/item?id=644954).
+
+#### Merry Christmas!
 
 During Christmas (December 25th) UTC, the Hacker News front page will have a Christmas theme, with a dark red top bar, and alternating red and green submission ranking numbers.
 
@@ -141,10 +147,6 @@ If the comment depth is 3 or more, reply links are withheld until the comments a
 ### Green Usernames
 
 Accounts which are less than **2 weeks** old at time of submitting/commenting will appear with a green username.
-
-### Thin Black Bar
-
-Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be on the front page at that time.
 
 ## Behaviors
 
