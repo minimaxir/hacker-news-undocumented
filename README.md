@@ -65,7 +65,11 @@ All comments start with a score of 1 point (but in order to prevent bandwagoning
 
 Complaining about being downvoted is discouraged and usually results in even more downvotes.
 
-If the comment desaturation makes Hacker News difficult to read, you can click on the comment's timestamp to go to its page where the comment will no longer be faded, or you can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
+If the comment desaturation makes Hacker News difficult to read, there are a few options depending on your preferences:
+
+* You can click on the comment's timestamp to go to its page where the comment will no longer be faded.
+* You can install the CSS extension [discussed here](https://news.ycombinator.com/item?id=16426569).
+* You can select the text the same way you would if you wanted to copy/paste it (i.e. using your mouse on desktop or touch and hold on mobile).  The highlighting will provide much improved contrast.
 
 ### View Most Recent Thread Comments First
 
