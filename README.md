@@ -17,7 +17,8 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [View Most Recent Thread Comments First](#view-most-recent-thread-comments-first)
     - [Flagging/Vouching](#flaggingvouching)
     - [Top Bar Color](#top-bar-color)
-    - [Merry Christmas!](#merry-christmas)
+      - [Thin Black Bar](#thin-black-bar)
+      - [Merry Christmas!](#merry-christmas)
     - [Anti-Voting Manipulation](#anti-voting-manipulation)
     - [Flame-War Detector](#flame-war-detector)
     - [Second-Chance Pool](#second-chance-pool)
@@ -27,11 +28,10 @@ _This list has no affiliation with Hacker News, Y Combinator, or any YC-backed c
     - [Shadowbanning](#shadowbanning)
     - [Hidden Reply Links](#hidden-reply-links)
     - [Green Usernames](#green-usernames)
-    - [Thin Black Bar](#thin-black-bar)
   - [Behaviors](#behaviors)
     - [Implicit Downranking of Politics](#implicit-downranking-of-politics)
     - [Implicit Downranking of Topics Around Diversity and Inclusion](#implicit-downranking-of-topics-around-diversity-and-inclusion)
-- [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
+    - [Implicit Downranking of Posts Without URLs](#implicit-downranking-of-posts-without-urls)
   - [Paywalls](#paywalls)
   - [Perceived Favoritism Toward YC Companies](#perceived-favoritism-toward-yc-companies)
   - [Downranking of Tutorials](#downranking-of-tutorials)
@@ -59,7 +59,7 @@ Dan and Tom are very responsive when contacted at [hn@ycombinator.com](mailto:hn
 
 ### Downvoting Comments
 
-All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points. Additional downvotes after that still subtract points from the user's Karma, but the comment won't go below -4. You cannot downvote comments which are direct replies to your own comment, and you cannot downvote **24 hours** after the original comment was made.
+All comments start with a score of 1 point (but in order to prevent bandwagoning, the comment score is not visible to users other than the author). After users reach **501 Karma**, they gain the ability to downvote another comment. Downvoted comments (i.e. with a score < 1) reduce their placement on the comment thread and will appear desaturated to other users to deemphasize them. There is no upper limit on the score of a comment, but the minimum score is -4 points. Additional downvotes after that still subtract points from the user's Karma, but the comment won't go below -4. You cannot downvote comments which are direct replies to your own comment, and you cannot downvote **24 hours** after the original comment was made.
 
 ![](/images/hn_downvotes.png)
 
@@ -85,7 +85,13 @@ If a user has **251 Karma**, they can set the color of the top bar in their prof
 
 Here's the [list](https://news.ycombinator.com/topcolors) of colors from users who have recently posted.
 
-### Merry Christmas!
+#### Thin Black Bar
+
+Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be on the front page at that time.
+
+A list of people who have been honored in this way between Jan. 2016 and Aug. 2023 was compiled [here](http://bear.willmeyers.net/whos-received-a-black-bar/) ([archived](https://web.archive.org/web/20230806034955/https://bear.willmeyers.net/whos-received-a-black-bar/)) but black bars go back to at least [2009](https://news.ycombinator.com/item?id=644954).
+
+#### Merry Christmas!
 
 During Christmas (December 25th) UTC, the Hacker News front page will have a Christmas theme, with a dark red top bar, and alternating red and green submission ranking numbers.
 
@@ -142,10 +148,6 @@ If the comment depth is 3 or more, reply links are withheld until the comments a
 
 Accounts which are less than **2 weeks** old at time of submitting/commenting will appear with a green username.
 
-### Thin Black Bar
-
-Occasionally, there will be a thin black bar at the top of the top bar, in memoriam of a significant figure in the tech/science community dying. A Hacker News submission about the death will usually be on the front page at that time.
-
 ## Behaviors
 
 ### Implicit Downranking of Politics
@@ -158,7 +160,7 @@ dang has commented about this issue [many times over the years](https://hn.algol
 
 Likewise, topics around diversity and inclusion in tech have gained lots of visibility over the past few years. However, despite these discussions not being off-topic, they tend to be flagged to death by users regardless. Unfortunately. (Moderators occasionally unkill such threads if they see it in time, although it rarely sticks).
 
-# Implicit Downranking of Posts Without URLs
+### Implicit Downranking of Posts Without URLs
 
 [Posts without URLs get penalized](https://news.ycombinator.com/item?id=21874086). If you post with a link and then add the text as a first comment you have more visibility.
 
